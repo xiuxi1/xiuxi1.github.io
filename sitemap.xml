@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648b1a3c/</loc>
+    <loc>https://xiuxi1.github.io/posts/648b1a3c.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648eb324/</loc>
+    <loc>https://xiuxi1.github.io/posts/648eb324.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648b1a5b/</loc>
+    <loc>https://xiuxi1.github.io/posts/648b1a5b.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/64865ecd/</loc>
+    <loc>https://xiuxi1.github.io/posts/64865ecd.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648ed50c/</loc>
+    <loc>https://xiuxi1.github.io/posts/648ed50c.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/6483c6b2/</loc>
+    <loc>https://xiuxi1.github.io/posts/6483c6b2.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/6482f8fe/</loc>
+    <loc>https://xiuxi1.github.io/posts/6482f8fe.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648473d4/</loc>
+    <loc>https://xiuxi1.github.io/posts/648473d4.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/648b0d55/</loc>
+    <loc>https://xiuxi1.github.io/posts/648b0d55.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/64450d07/</loc>
+    <loc>https://xiuxi1.github.io/posts/64450d07.html</loc>
     
     <lastmod>2023-06-18</lastmod>
     
@@ -128,6 +128,13 @@
 
   
   <url>
+    <loc>https://xiuxi1.github.io/tags/%E7%81%B5%E6%84%9F%E6%9D%A5%E4%BA%86/</loc>
+    <lastmod>2023-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xiuxi1.github.io/tags/%E6%88%91/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,13 +143,6 @@
   
   <url>
     <loc>https://xiuxi1.github.io/tags/%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1/</loc>
-    <lastmod>2023-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiuxi1.github.io/tags/%E7%81%B5%E6%84%9F%E6%9D%A5%E4%BA%86/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
