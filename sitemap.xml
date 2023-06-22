@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiuxi1.github.io/posts/644fc369.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiuxi1.github.io/posts/648eb324.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiuxi1.github.io/posts/648473d4.html</loc>
     
     <lastmod>2023-06-22</lastmod>
@@ -56,27 +74,9 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/posts/644fc369.html</loc>
-    
-    <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xiuxi1.github.io/posts/6493a2dd.html</loc>
     
     <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiuxi1.github.io/posts/648eb324.html</loc>
-    
-    <lastmod>2023-06-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -126,14 +126,14 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/tags/%E6%88%91/</loc>
+    <loc>https://xiuxi1.github.io/tags/%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/tags/%E6%80%9D%E6%83%B3/</loc>
+    <loc>https://xiuxi1.github.io/tags/%E6%88%91/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
